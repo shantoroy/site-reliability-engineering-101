@@ -7,3 +7,4 @@ I have planned the [contents for next 100 days](https://medium.com/@shantoroy/le
 * [Introduction to Site Reliability Engineering](https://shantoroy.com/sre/intro-to-site-reliability-engineering/)
 * [History of SRE and its Evolution](https://shantoroy.com/sre/site-reliability-engineering-history-&-evolution/)
 * [SLAs, SLOs, and SLIs — understanding the metrics of reliability](https://shantoroy.com/sre/sla-slo-sli-metrics-of-sre/)
+* [Chaos Engineering and SRE - Techniques and Tools to Break Things on Purpose](https://shantoroy.com/sre/chaos-engineering-techniques-and-tools-for-sre/)
