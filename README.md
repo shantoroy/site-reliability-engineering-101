@@ -10,3 +10,4 @@ I have planned the [contents for next 100 days](https://medium.com/@shantoroy/le
 4. [#100daysofSRE (Day 04): Chaos Engineering and SRE - Techniques and Tools to Break Things on Purpose](https://shantoroy.com/sre/chaos-engineering-techniques-and-tools-for-sre/)
 5. [#100daysofSRE (Day 05): Automation Benefits, Techniques, and Tools in SRE](https://shantoroy.com/sre/automation-benefits-techniques-and-tools-in-SRE/)
 6. [#100daysofSRE (Day 06): Incident Management and Response for Site Reliability Engineers](https://shantoroy.com/sre/incident-management-and-response-for-site-reliability-engineers/)
+7. [#100daysofSRE (Day 07): Effective Communication during Incidents for Better Incident Response](https://shantoroy.com/sre/effective-communication-for-better-incident-response/)
