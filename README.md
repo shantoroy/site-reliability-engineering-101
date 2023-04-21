@@ -12,3 +12,5 @@ I have planned the [contents for next 100 days](https://medium.com/@shantoroy/le
 6. [#100daysofSRE (Day 06): Incident Management and Response for Site Reliability Engineers](https://shantoroy.com/sre/incident-management-and-response-for-site-reliability-engineers/)
 7. [#100daysofSRE (Day 07): Effective Communication during Incidents for Better Incident Response](https://shantoroy.com/sre/effective-communication-for-better-incident-response/)
 8. [#100daysofSRE (Day 08): Root Cause Analysis and Post-Incident Reviews for SRE](https://shantoroy.com/sre/root-cause-analysis-and-post-incident-reviews/)
+9. [#100daysofSRE (Day 09): Monitoring and Observability in SRE](https://shantoroy.com/sre/monitoring-and-observability-in-sre/)
+10. [#100daysofSRE (Day 10): Grafana vs Splunk for Monitoring System and Applications](https://shantoroy.com/sre/grafana-vs-splunk-for-system-and-application-monitoring/)
