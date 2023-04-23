@@ -1,4 +1,4 @@
-# Site Reliability Engineering Tutorial (SRE-101)
+# #100daysofSRE - Site Reliability Engineering Notes (SRE-101)
 
 I will join as a Site Reliability Engineer (SRE) intern at a Fortune 500 listed company in this summer of 2023. Now, I plan to take the `#100dayschallenge` for learning and sharing my journey through SRE resources.
 
