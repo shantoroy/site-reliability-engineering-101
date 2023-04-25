@@ -16,3 +16,5 @@ I have planned the [contents for next 100 days](https://medium.com/@shantoroy/le
 10. [#100daysofSRE (Day 10): Grafana vs Splunk for Monitoring System and Applications](https://shantoroy.com/sre/grafana-vs-splunk-for-system-and-application-monitoring/)
 11. [#100daysofSRE (Day 11): Logging and Log Analysis in Site Reliability Engineering- Techniques, Tools, and Best Practices](https://shantoroy.com/sre/logging-and-log-analysis-for-site-reliability-engineering/)
 12. [#100daysofSRE (Day 12): Alerting and Notification Strategies and Best Practices in SRE](https://shantoroy.com/sre/alerting-and-notification-strategies-in-site-reliability-engineering/)
+13. [#100daysofSRE (Day 13): Capacity Planning and Management in Site Reliability Engineering](https://shantoroy.com/sre/capacity-planning-and-management-in-sre/)
+14. [#100daysofSRE (Day 14): Load Testing and Stress Testing in Site Reliability Engineering](https://shantoroy.com/sre/load-and-stress-testing-in-sre/)
