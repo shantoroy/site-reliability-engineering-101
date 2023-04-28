@@ -18,3 +18,5 @@ I have planned the [contents for next 100 days](https://medium.com/@shantoroy/le
 12. [#100daysofSRE (Day 12): Alerting and Notification Strategies and Best Practices in SRE](https://shantoroy.com/sre/alerting-and-notification-strategies-in-site-reliability-engineering/)
 13. [#100daysofSRE (Day 13): Capacity Planning and Management in Site Reliability Engineering](https://shantoroy.com/sre/capacity-planning-and-management-in-sre/)
 14. [#100daysofSRE (Day 14): Load Testing and Stress Testing in Site Reliability Engineering](https://shantoroy.com/sre/load-and-stress-testing-in-sre/)
+15. [#100daysofSRE (Day 15): Disaster Recovery Planning and Testing in SRE](https://shantoroy.com/sre/disaster-recovery-planning-and-testing-in-sre/)
+16. [#100daysofSRE (Day 16): High Availability and Redundancy Strategies for Data](https://shantoroy.com/sre/high-availability-and-redundancy-strategies-in-sre/)
