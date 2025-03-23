@@ -4,6 +4,7 @@ I have worked as a Site Reliability Engineer (SRE) at Charles Schwab since 2024.
 
 I have planned the [contents for next 100 days](https://medium.com/@shantoroy/learning-about-site-reliability-engineering-with-the-100daysofsre-challenge-66380323c0d1), and I will be posting blog posts under the hashtag `#100daysofSRE`. ✌️
 
+## Blog Posts
 1. [#100daysofSRE (Day 01): Introduction to Site Reliability Engineering](https://shantoroy.com/sre/intro-to-site-reliability-engineering/)
 2. [#100daysofSRE (Day 02): History of SRE and its Evolution](https://shantoroy.com/sre/site-reliability-engineering-history-&-evolution/)
 3. [#100daysofSRE (Day 03): SLAs, SLOs, and SLIs — understanding the metrics of reliability](https://shantoroy.com/sre/sla-slo-sli-metrics-of-sre/)
@@ -40,3 +41,22 @@ I have planned the [contents for next 100 days](https://medium.com/@shantoroy/le
 34. [#100DaysOfSRE (Day 34): Automating Kubernetes Deployments with ArgoCD & GitOps](https://shantoroy.com/kubernetes/kubernetes-deployment-with-argocd-gitops/)
 35. [#100DaysOfSRE (Day 35): Kubernetes CI/CD Pipeline with GitHub Actions & ArgoCD](https://shantoroy.com/kubernetes/kubernetes-ci-cd-with-github-actions-argocd/)
 36. [#100DaysOfSRE (Day 36): Kubernetes Helm Charts – Package & Deploy Applications](https://shantoroy.com/kubernetes/kubernetes-helm-charts-to-package-deploy-app/)
+
+
+
+
+## YouTube Channels for SREs
+1. [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
+2. [Anton Putra](https://www.youtube.com/@AntonPutra)
+3. [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+4. [Professor Messer](https://www.youtube.com/@professormesser)
+5. [Google Cloud Tech](https://www.youtube.com/@googlecloudtech)
+6. [IBM Technology](https://www.youtube.com/@IBMTechnology)
+7. [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+8. [Fireship](https://www.youtube.com/@Fireship)
+9. [NetworkChuck](https://www.youtube.com/@NetworkChuck)
+10. [Tech With Soleyman](https://www.youtube.com/@techwithsoleyman)
+11. [ByteMonk](https://www.youtube.com/@ByteMonk)
+12. [Christian Lempa](https://www.youtube.com/@christianlempa)
+13. [David Ondrej](https://www.youtube.com/@DavidOndrej)
+14. [DevOps Journey](https://www.youtube.com/@DevOpsJourney)
