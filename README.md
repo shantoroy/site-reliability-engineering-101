@@ -1,8 +1,8 @@
 # #100daysofSRE - Site Reliability Engineering Notes (SRE-101)
 
-I will join as a Site Reliability Engineer (SRE) intern at a Fortune 500 listed company in this summer of 2023. Now, I plan to take the `#100dayschallenge` for learning and sharing my journey through SRE resources.
+I have worked as a Site Reliability Engineer (SRE) at Charles Schwab since 2024. Here, I plan to take the `#100dayschallenge` to note important SRE topics and resources.
 
-I have planned the [contents for next 100 days](https://medium.com/@shantoroy/learning-about-site-reliability-engineering-with-the-100daysofsre-challenge-66380323c0d1), and I will be posting one blog post each and everyday under the hashtag `#100daysofSRE`. ✌️
+I have planned the [contents for next 100 days](https://medium.com/@shantoroy/learning-about-site-reliability-engineering-with-the-100daysofsre-challenge-66380323c0d1), and I will be posting blog posts under the hashtag `#100daysofSRE`. ✌️
 
 1. [#100daysofSRE (Day 01): Introduction to Site Reliability Engineering](https://shantoroy.com/sre/intro-to-site-reliability-engineering/)
 2. [#100daysofSRE (Day 02): History of SRE and its Evolution](https://shantoroy.com/sre/site-reliability-engineering-history-&-evolution/)
